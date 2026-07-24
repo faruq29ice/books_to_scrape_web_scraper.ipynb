@@ -75,6 +75,15 @@ pip install -r requirements.txt
 Run the notebook.
 
 ---
+## Homepage
+
+![Homepage](images/books-to-scrape-homepage.png)
+
+---
+
+## Clean Dataset
+
+![Dataset](images/dataframe.png)
 
 ##  Author
 
