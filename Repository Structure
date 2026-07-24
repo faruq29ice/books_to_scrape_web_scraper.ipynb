@@ -1,0 +1,11 @@
+books-to-scrape-web-scraper/
+│
+├── books_to_scrape_web_scraper.ipynb
+├── books.csv
+├── README.md
+├── requirements.txt
+├── LICENSE
+├── .gitignore
+└── images/
+    ├── homepage.png
+    └── dataframe.png
