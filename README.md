@@ -76,12 +76,6 @@ Run the notebook.
 
 ---
 
-## 📸 Preview
-
-(Add screenshots here)
-
----
-
 ##  Author
 
 **Adebiyi Faruq**
