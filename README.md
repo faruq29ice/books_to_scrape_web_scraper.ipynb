@@ -63,7 +63,7 @@ books-to-scrape-web-scraper/
 Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/books-to-scrape-web-scraper.git
+git clone https://github.com/faruq29ice/books-to-scrape-web-scraper.git
 ```
 
 Install dependencies:
