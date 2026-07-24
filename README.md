@@ -85,6 +85,10 @@ Run the notebook.
 
 ![Dataset](images/dataframe.png)
 
+## Dataset Preview
+
+![Dataset](images/csv-view.png)
+
 ##  Author
 
 **Adebiyi Faruq**
